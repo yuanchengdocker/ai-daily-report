@@ -96,7 +96,7 @@ const latestReportLink = dailyReports.length > 0 ? `/docs/${dailyReports[0]}` : 
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  title: "AI 洞察日报",
+  title: "AI 精选日报",
   description: "每日精选 AI 前沿资讯",
   
   // 排除 README.md

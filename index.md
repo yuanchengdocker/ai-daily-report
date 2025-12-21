@@ -2,7 +2,7 @@
 layout: home
 
 hero:
-  name: "AI 洞察日报"
+  name: "AI 精选日报"
   text: "每日精选 AI 前沿资讯"
   tagline: 追踪人工智能领域最新动态，洞察技术趋势与行业变革
   image:
